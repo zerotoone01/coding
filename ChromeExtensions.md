@@ -1,4 +1,4 @@
-# Chrome Extensions frequently used
+# Chrome Extensions Frequently Used
 
 ## common tool 
 * Tampermonkey -- 油猴脚本管理器
