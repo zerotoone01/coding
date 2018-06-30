@@ -11,7 +11,8 @@
 
 ## developer tools
 ### web 
-* ChroPath -- xpath选择器
+* ChroPath -- xpath选择器（和Chrome自带的xpath相比，路径简洁）
+* Xpath helper -- xpath选择器（可以获取到标签下的具体元素，但是chroXpath只能定位到标签）
 * Katalon Recorder -- Selenium IDE 
 
 ### Java
